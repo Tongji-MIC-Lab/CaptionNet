@@ -1,6 +1,6 @@
 # CaptionNet: A Tailor-made Recurrent Neural Network for Generating Image Descriptions
 
-Hanli Wang , Yun Yi , Jun Wu
+Longyu Yang, Hanli Wang, Pengjie Tang, Qinyu Li
 
 ### Overview:
 
