@@ -51,3 +51,4 @@ Table 3 shows the comparative results after CIDEr optimization (SCST), demonstra
 Please cite the following paper if you find this work useful:
 
 Longyu Yang, Hanli Wang, Pengjie Tang, and Qinyu Li, CaptionNet: A Tailor-made Recurrent Neural Network for Generating Image Descriptions, IEEE Transactions on Multimedia, vol. 23, pp. 835-845, 2021.
+
